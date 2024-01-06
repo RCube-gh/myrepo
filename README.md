@@ -1,1 +1,1 @@
-this is a brief description of my project.
+This is a brief description of my project.
